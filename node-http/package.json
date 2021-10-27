@@ -1,0 +1,11 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "keyword, git repository"
+  },
+  "author": "xzz",
+  "license": "ISC"
+}
